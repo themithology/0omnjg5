@@ -105,3 +105,17 @@ s.referrerPolicy = 'no-referrer-when-downgrade';
 l.parentNode.insertBefore(s, l);
 })({})
 </script>
+
+in page ads 
+<script>
+(function(lsdxt){
+var d = document,
+    s = d.createElement('script'),
+    l = d.currentScript || d.scripts[d.scripts.length - 1];
+s.settings = lsdxt || {};
+s.src = "\/\/peacefulbicycle.com\/beX.VhsTdAGwlc0rYdWzck\/deVma9YuAZEUiltk\/PsTic-0\/NVTXcvzdOxT\/cPtkNEzLQ_1dNTzaQcwAM\/Qp";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
