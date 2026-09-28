@@ -1,15 +1,27 @@
 ADSTERRA ADS
 smart link - https://asiafilm.org/4/228e1658775d0587e43e4a269c831797
-300x250- <script>
+Native Banner- <script async="async" data-cfasync="false" src="https://bancadeltempoidea.org/21/f59c3af8bc1986dfe1379fd3cfb3bebc"></script>
+<div id="container-f59c3af8bc1986dfe1379fd3cfb3bebc"></div>
+468x60- <script>
   atOptions = {
-    'key' : 'cc03257a3ad168aff718eae987a2cae8',
+    'key' : '1b78e7c8327365bcecfd281606947c5e',
     'format' : 'iframe',
-    'height' : 250,
-    'width' : 300,
+    'height' : 60,
+    'width' : 468,
     'params' : {}
   };
 </script>
-<script src="https://bancadeltempoidea.org/22/cc03257a3ad168aff718eae987a2cae8"></script>
+<script src="https://bancadeltempoidea.org/22/1b78e7c8327365bcecfd281606947c5e"></script>
+160x300- <script>
+  atOptions = {
+    'key' : '043d25f85fcdd4df2445cb353d7efe1d',
+    'format' : 'iframe',
+    'height' : 300,
+    'width' : 160,
+    'params' : {}
+  };
+</script>
+<script src="https://bancadeltempoidea.org/22/043d25f85fcdd4df2445cb353d7efe1d"></script>
 320x50- <script>
   atOptions = {
     'key' : '00177acbdeb89ce6906c88754bf4de5b',
@@ -20,7 +32,6 @@ smart link - https://asiafilm.org/4/228e1658775d0587e43e4a269c831797
   };
 </script>
 <script src="https://bancadeltempoidea.org/22/00177acbdeb89ce6906c88754bf4de5b"></script>
-
 728x90- <script>
   atOptions = {
     'key' : '4fa3cdd019931a9871297e9a4a656d82',
@@ -31,7 +42,24 @@ smart link - https://asiafilm.org/4/228e1658775d0587e43e4a269c831797
   };
 </script>
 <script src="https://bancadeltempoidea.org/22/4fa3cdd019931a9871297e9a4a656d82"></script>
-NativeBanner- <script async="async" data-cfasync="false" src="https://bancadeltempoidea.org/21/f59c3af8bc1986dfe1379fd3cfb3bebc"></script>
-<div id="container-f59c3af8bc1986dfe1379fd3cfb3bebc"></div>
-SocialBar- <script data-cfasync="false" src="https://bancadeltempoidea.org/14/323216999e94bd305d1bce28f8cd6072"></script>
-
+300x250- <script>
+  atOptions = {
+    'key' : 'cc03257a3ad168aff718eae987a2cae8',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+</script>
+<script src="https://bancadeltempoidea.org/22/cc03257a3ad168aff718eae987a2cae8"></script>
+160x600- <script>
+  atOptions = {
+    'key' : '97f0efc49089aae0ae3ad04f95880377',
+    'format' : 'iframe',
+    'height' : 600,
+    'width' : 160,
+    'params' : {}
+  };
+</script>
+<script src="https://bancadeltempoidea.org/22/97f0efc49089aae0ae3ad04f95880377"></script>
+Social Bar- <script data-cfasync="false" src="https://bancadeltempoidea.org/14/323216999e94bd305d1bce28f8cd6072"></script>
